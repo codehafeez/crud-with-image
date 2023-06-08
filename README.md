@@ -14,7 +14,11 @@ http://localhost/crud-with-image
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/crud-simple/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-with-image/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-with-image/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-with-image/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-with-image/main/Screenshots/Output-04.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-with-image/main/Screenshots/Output-05.png)
 
 
 ## 🔗 www.codehafeez.com
